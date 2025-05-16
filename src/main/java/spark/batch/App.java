@@ -1,4 +1,4 @@
-package hadoop.mapreduce;
+package spark.batch;
 
 /**
  * Hello world!
